@@ -44,3 +44,4 @@
 - [`claude-code-agency-toolkit`](https://github.com/agenciaiaonline-wq/claude-code-agency-toolkit)
 - [`ai-lead-gen-crm-pipeline`](https://github.com/agenciaiaonline-wq/ai-lead-gen-crm-pipeline)
 - [`high-ticket-ai-automation-catalog`](https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog)
+- [`nextjs-b2b-bi-dashboard-starter`](https://github.com/agenciaiaonline-wq/nextjs-b2b-bi-dashboard-starter)

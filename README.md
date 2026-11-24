@@ -37,6 +37,7 @@ We help **founders, B2B agencies, and growing companies** ship production-ready 
 | **6** | **Claude Code Agency Toolkit** | Modular subagents, delivery skills, slash commands, pre-commit secret hooks & sanitized MCP server configs. | Team Enablement | [`claude-code-agency-toolkit`](https://github.com/agenciaiaonline-wq/claude-code-agency-toolkit) |
 | **7** | **AI Lead Gen & SQLite CRM Pipeline** | Multi-source RSS/Atom opportunity hunter, 0–100 ICP budget scorer, WAL SQLite CRM & Markdown/CSV digest exporter. | **\$3,500 – \$9,500** | [`ai-lead-gen-crm-pipeline`](https://github.com/agenciaiaonline-wq/ai-lead-gen-crm-pipeline) |
 | **8** | **Zapier/Make → n8n Migration & Catalog** | Cut recurring SaaS automation costs up to **80%** on Docker + standardized SOWs, SLA retainers & Python ROI CLI. | **\$500 – \$4,000/mo** retainer | [`high-ticket-ai-automation-catalog`](https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog) |
+| **9** | **B2B Ops Portal & Real-Time BI Dashboard** | Executive KPI telemetry, MRR/SLA tracking & filtered JSON API in Next.js 15 + TypeScript. | **\$4,000 – \$12,000** *(7–14 days)* | [`nextjs-b2b-bi-dashboard-starter`](https://github.com/agenciaiaonline-wq/nextjs-b2b-bi-dashboard-starter) |
 
 ---
 

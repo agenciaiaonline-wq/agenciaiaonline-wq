@@ -37,6 +37,7 @@ Ayudamos a **fundadores, agencias B2B y empresas** a lanzar MVPs SaaS productivo
 | **6** | **Toolkit Corporativo Claude Code** — Subagentes, skills de entrega, slash commands, hooks anti-secretos y plantillas MCP | Adopción de Equipos | [`claude-code-agency-toolkit`](https://github.com/agenciaiaonline-wq/claude-code-agency-toolkit) |
 | **7** | **Pipeline de Leads IA & CRM SQLite** — Captación RSS/Atom multi-fuente, scoring ICP 0–100 y digest diario Markdown/CSV | 5–10 días · **USD 3,500 – 9,500** | [`ai-lead-gen-crm-pipeline`](https://github.com/agenciaiaonline-wq/ai-lead-gen-crm-pipeline) |
 | **8** | **Catálogo, Plantillas SOW & Calculadora ROI** — Alcances B2B/Fiverr, SLAs mensuales y calculadora CLI de retorno de inversión | **USD 500 – 3,500+/mes** SLA | [`high-ticket-ai-automation-catalog`](https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog) |
+| **9** | **Portales B2B & Dashboards BI en Tiempo Real** — Telemetría KPI ejecutiva, tracking MRR/SLA y API JSON filtrada en Next.js 15 + TypeScript | 7–14 días · **USD 4,000 – 12,000** | [`nextjs-b2b-bi-dashboard-starter`](https://github.com/agenciaiaonline-wq/nextjs-b2b-bi-dashboard-starter) |
 
 ---
 
