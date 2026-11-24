@@ -11,7 +11,7 @@
   <p>
     <a href="https://www.linkedin.com/in/agency-golden-nodalix-880598438/"><img src="https://img.shields.io/badge/LinkedIn-Golden_Nodalix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/agenciaiaonline-wq/claude-code-hermes-24-7-automation"><img src="https://img.shields.io/badge/Blueprint-24%2F7_AI_Stack-d4af37?style=for-the-badge" alt="24/7 Stack" /></a>
-    <a href="https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog"><img src="https://img.shields.io/badge/Catalog-ROI_%26_Retainers-10b981?style=for-the-badge" alt="ROI Catalog" /></a>
+    <a href="https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md"><img src="https://img.shields.io/badge/Catalog-ROI_%26_Retainers-10b981?style=for-the-badge" alt="ROI Catalog" /></a>
   </p>
 </div>
 
@@ -29,12 +29,12 @@ We help **founders, B2B agencies, and growing companies** ship production-ready 
 
 | # | Solution | Scope & Business Outcome | Reference Investment | Blueprint Repo |
 | :-: | :--- | :--- | :--- | :--- |
-| **1** | **14-Day SaaS & Micro-SaaS MVP** | Multi-tenant Next.js + TypeScript + Supabase RLS + RBAC + Stripe subscriptions ready to bill. | **\$5,000 – \$15,000** *(7–14 days)* | [`nextjs-supabase-saas-mvp-starter`](https://github.com/agenciaiaonline-wq/nextjs-supabase-saas-mvp-starter) |
-| **2** | **Vibe-to-Production Security Rescue** | Fix broken Lovable, Bolt.new, v0, or Replit apps: close open tables, move leaked API keys to backend, harden Stripe & CI/CD. | **\$3,000 – \$8,000** *(5–10 days)* | [`vibe-to-production-audit-kit`](https://github.com/agenciaiaonline-wq/vibe-to-production-audit-kit) |
-| **3** | **24/7 WhatsApp & CRM AI Sales Engine** | Self-hosted n8n + WAHA + Redis + PostgreSQL + Cal.com: sub-10s replies, lead qualification & auto-booking. | **\$3,500 – \$10,000** + retainer | [`whatsapp-ai-sales-agent-n8n`](https://github.com/agenciaiaonline-wq/whatsapp-ai-sales-agent-n8n) |
+| **1** | **14-Day SaaS & Micro-SaaS MVP** | Multi-tenant Next.js + TypeScript + Supabase RLS + RBAC + Stripe subscriptions ready to bill. | **\$5,000 – \$15,000** *(7–14 days)* | [`nextjs-supabase-saas-mvp-starter`](https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md#1-14-day-saas--micro-saas-mvp) |
+| **2** | **Vibe-to-Production Security Rescue** | Fix broken Lovable, Bolt.new, v0, or Replit apps: close open tables, move leaked API keys to backend, harden Stripe & CI/CD. | **\$3,000 – \$8,000** *(5–10 days)* | [`vibe-to-production-audit-kit`](https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md#2-vibe-to-production-security-rescue) |
+| **3** | **24/7 WhatsApp & CRM AI Sales Engine** | Self-hosted n8n + WAHA + Redis + PostgreSQL + Cal.com: sub-10s replies, lead qualification & auto-booking. | **\$3,500 – \$10,000** + retainer | [`whatsapp-ai-sales-agent-n8n`](https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md#3-247-whatsapp--crm-ai-sales-engine-self-hosted-n8n--waha--redis) |
 | **4** | **Autonomous Multi-Agent DevOps (24/7)** | Claude Code CLI + Hermes Agent + OmniRoute auto-failover gateway + Watchdog + Playwright CDP. | Custom Architecture | [`claude-code-hermes-24-7-automation`](https://github.com/agenciaiaonline-wq/claude-code-hermes-24-7-automation) |
-| **5** | **Private Corporate RAG & PDF Copilot** | FastAPI + Qdrant/pgvector hybrid search with verified citations & structured invoice/contract extraction. | **\$4,500 – \$12,000** | [`private-corporate-rag-fastapi`](https://github.com/agenciaiaonline-wq/private-corporate-rag-fastapi) |
-| **6** | **Zapier/Make → n8n Migration & Retainers** | Cut recurring SaaS automation costs up to **80%** on Docker + monthly uptime SLA & continuous feature sprints. | **\$500 – \$4,000/mo** retainer | [`high-ticket-ai-automation-catalog`](https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog) |
+| **5** | **Private Corporate RAG & PDF Copilot** | FastAPI + Qdrant/pgvector hybrid search with verified citations & structured invoice/contract extraction. | **\$4,500 – \$12,000** | [`private-corporate-rag-fastapi`](https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md#5-private-corporate-rag--document-extraction) |
+| **6** | **Zapier/Make → n8n Migration & Retainers** | Cut recurring SaaS automation costs up to **80%** on Docker + monthly uptime SLA & continuous feature sprints. | **\$500 – \$4,000/mo** retainer | [`high-ticket-ai-automation-catalog`](https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md) |
 
 ---
 
