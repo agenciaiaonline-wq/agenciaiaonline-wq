@@ -11,7 +11,7 @@
   <p>
     <a href="https://www.linkedin.com/in/agency-golden-nodalix-880598438/"><img src="https://img.shields.io/badge/LinkedIn-Golden_Nodalix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/agenciaiaonline-wq/claude-code-hermes-24-7-automation"><img src="https://img.shields.io/badge/Blueprint-24%2F7_AI_Stack-d4af37?style=for-the-badge" alt="24/7 Stack" /></a>
-    <a href="https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md"><img src="https://img.shields.io/badge/Catalog-ROI_%26_Retainers-10b981?style=for-the-badge" alt="ROI Catalog" /></a>
+    <a href="https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog"><img src="https://img.shields.io/badge/Catalog-ROI_%26_Retainers-10b981?style=for-the-badge" alt="ROI Catalog" /></a>
   </p>
 </div>
 
@@ -21,20 +21,22 @@
 
 We help **founders, B2B agencies, and growing companies** ship production-ready SaaS MVPs, rescue unstable AI/Vibe-Coded prototypes, and deploy autonomous 24/7 AI sales & workflow systems in **7–14 days** — without agency bloat or fragile no-code lock-in.
 
-> **Why teams verify our GitHub before hiring on Fiverr, LinkedIn, or LinkedIn / Direct Scope:** Every engagement ships with clean source code ownership, database security (PostgreSQL/Supabase RLS), automated failure recovery, and transparent infrastructure costs.
+> **Why teams verify our GitHub before hiring on Fiverr, LinkedIn, WhatsApp, Messenger, or Telegram:** Every repository below ships with clean source code ownership, database security (PostgreSQL/Supabase RLS), automated unit tests & CI checks, and transparent infrastructure costs.
 
 ---
 
-### High-Ticket Productized Services & Retainers
+### High-Ticket Productized Services & Live Repositories
 
 | # | Solution | Scope & Business Outcome | Reference Investment | Blueprint Repo |
 | :-: | :--- | :--- | :--- | :--- |
-| **1** | **14-Day SaaS & Micro-SaaS MVP** | Multi-tenant Next.js + TypeScript + Supabase RLS + RBAC + Stripe subscriptions ready to bill. | **\$5,000 – \$15,000** *(7–14 days)* | [`nextjs-supabase-saas-mvp-starter`](https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md#1-14-day-saas--micro-saas-mvp) |
-| **2** | **Vibe-to-Production Security Rescue** | Fix broken Lovable, Bolt.new, v0, or Replit apps: close open tables, move leaked API keys to backend, harden Stripe & CI/CD. | **\$3,000 – \$8,000** *(5–10 days)* | [`vibe-to-production-audit-kit`](https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md#2-vibe-to-production-security-rescue) |
-| **3** | **24/7 WhatsApp & CRM AI Sales Engine** | Self-hosted n8n + WAHA + Redis + PostgreSQL + Cal.com: sub-10s replies, lead qualification & auto-booking. | **\$3,500 – \$10,000** + retainer | [`whatsapp-ai-sales-agent-n8n`](https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md#3-247-whatsapp--crm-ai-sales-engine-self-hosted-n8n--waha--redis) |
+| **1** | **14-Day SaaS & Micro-SaaS MVP** | Multi-tenant Next.js 15 App Router + TypeScript + Supabase RLS + RBAC + idempotent Stripe webhooks. | **\$5,000 – \$15,000** *(7–14 days)* | [`nextjs-supabase-saas-mvp-starter`](https://github.com/agenciaiaonline-wq/nextjs-supabase-saas-mvp-starter) |
+| **2** | **Vibe-to-Production Security Rescue** | Python audit CLI & RLS checks for Lovable, Bolt.new, v0, or Replit apps: close open tables, move leaked keys, stabilize CI. | **\$3,000 – \$8,000** *(5–10 days)* | [`vibe-to-production-audit-kit`](https://github.com/agenciaiaonline-wq/vibe-to-production-audit-kit) |
+| **3** | **24/7 WhatsApp & CRM AI Sales Engine** | Self-hosted n8n + WAHA + Redis `EX 300` dedupe + PostgreSQL + Cal.com: sub-10s replies, RAG quoting & auto-booking. | **\$3,500 – \$10,000** + retainer | [`whatsapp-ai-sales-agent-n8n`](https://github.com/agenciaiaonline-wq/whatsapp-ai-sales-agent-n8n) |
 | **4** | **Autonomous Multi-Agent DevOps (24/7)** | Claude Code CLI + Hermes Agent + OmniRoute auto-failover gateway + Watchdog + Playwright CDP. | Custom Architecture | [`claude-code-hermes-24-7-automation`](https://github.com/agenciaiaonline-wq/claude-code-hermes-24-7-automation) |
-| **5** | **Private Corporate RAG & PDF Copilot** | FastAPI + Qdrant/pgvector hybrid search with verified citations & structured invoice/contract extraction. | **\$4,500 – \$12,000** | [`private-corporate-rag-fastapi`](https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md#5-private-corporate-rag--document-extraction) |
-| **6** | **Zapier/Make → n8n Migration & Retainers** | Cut recurring SaaS automation costs up to **80%** on Docker + monthly uptime SLA & continuous feature sprints. | **\$500 – \$4,000/mo** retainer | [`high-ticket-ai-automation-catalog`](https://github.com/agenciaiaonline-wq/agenciaiaonline-wq/blob/main/BLUEPRINTS.md) |
+| **5** | **Enterprise RAG & PDF Extraction API** | FastAPI + Qdrant/pgvector multi-tenant retrieval with verified page citations & structured JSON invoice extraction. | **\$4,500 – \$12,000** | [`enterprise-rag-fastapi-starter`](https://github.com/agenciaiaonline-wq/enterprise-rag-fastapi-starter) |
+| **6** | **Claude Code Agency Toolkit** | Modular subagents, delivery skills, slash commands, pre-commit secret hooks & sanitized MCP server configs. | Team Enablement | [`claude-code-agency-toolkit`](https://github.com/agenciaiaonline-wq/claude-code-agency-toolkit) |
+| **7** | **AI Lead Gen & SQLite CRM Pipeline** | Multi-source RSS/Atom opportunity hunter, 0–100 ICP budget scorer, WAL SQLite CRM & Markdown/CSV digest exporter. | **\$3,500 – \$9,500** | [`ai-lead-gen-crm-pipeline`](https://github.com/agenciaiaonline-wq/ai-lead-gen-crm-pipeline) |
+| **8** | **Zapier/Make → n8n Migration & Catalog** | Cut recurring SaaS automation costs up to **80%** on Docker + standardized SOWs, SLA retainers & Python ROI CLI. | **\$500 – \$4,000/mo** retainer | [`high-ticket-ai-automation-catalog`](https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog) |
 
 ---
 
@@ -79,4 +81,5 @@ flowchart LR
 ### Ready to Launch, Rescue, or Automate?
 
 - **LinkedIn Portfolio & Direct Message:** [Golden Nodalix on LinkedIn](https://www.linkedin.com/in/agency-golden-nodalix-880598438/)
+- **Pricing & ROI Catalog:** [`BLUEPRINTS.md`](BLUEPRINTS.md) · [`high-ticket-ai-automation-catalog`](https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog)
 - **Active Channels (Fiverr · WhatsApp · Messenger · Telegram):** Reply directly in our active chat thread or send `"MVP"` / `"AUDIT"` via LinkedIn to start a 72-hour technical scope audit.

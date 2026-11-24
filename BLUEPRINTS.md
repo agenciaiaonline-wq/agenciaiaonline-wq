@@ -88,3 +88,16 @@ Zero-retention **Python FastAPI + Qdrant (`pgvector`)** pipeline:
 | **Starter MVP** | 2 vCPU · 4 GB RAM + Managed DB | **\$12 – \$45 / mo** | SaaS MVP + 1–2 n8n/WhatsApp bots |
 | **Agency / SMB** | 4–8 vCPU · 16 GB RAM VPS | **\$40 – \$96 / mo** | Unlimited n8n, WAHA, Postgres, Redis, Qdrant RAG |
 | **Split 2-Node Cluster** | Dedicated Core (16 GB) + Worker (16 GB) | **\$180 – \$220 / mo** | Zero-downtime CRM + Claude Code / Remotion / multi-agent workers |
+
+---
+
+## 7. Live Showcase Repositories (10 Public Repos)
+
+- [`claude-code-hermes-24-7-automation`](https://github.com/agenciaiaonline-wq/claude-code-hermes-24-7-automation)
+- [`nextjs-supabase-saas-mvp-starter`](https://github.com/agenciaiaonline-wq/nextjs-supabase-saas-mvp-starter)
+- [`vibe-to-production-audit-kit`](https://github.com/agenciaiaonline-wq/vibe-to-production-audit-kit)
+- [`whatsapp-ai-sales-agent-n8n`](https://github.com/agenciaiaonline-wq/whatsapp-ai-sales-agent-n8n)
+- [`enterprise-rag-fastapi-starter`](https://github.com/agenciaiaonline-wq/enterprise-rag-fastapi-starter)
+- [`claude-code-agency-toolkit`](https://github.com/agenciaiaonline-wq/claude-code-agency-toolkit)
+- [`ai-lead-gen-crm-pipeline`](https://github.com/agenciaiaonline-wq/ai-lead-gen-crm-pipeline)
+- [`high-ticket-ai-automation-catalog`](https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog)

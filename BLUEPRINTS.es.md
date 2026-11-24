@@ -31,3 +31,16 @@
 3. **Agente Comercial WhatsApp 24/7 (n8n + WAHA + Redis + PostgreSQL):** Deduplicación en Redis (`SET EX 300 NX`) para evitar respuestas dobles, debounce de ráfagas de mensajes, simulación humana (`startTyping`), memoria en Postgres y agendamiento automático en Cal.com en `<10s`.
 4. **Ahorro Enterprise vs Zapier/Make:** Un flujo de `50,000` operaciones/mes cuesta ~\$290–\$450/mes en SaaS vs \$20–\$40/mes en un VPS Docker propio (`n8n + Postgres + Redis`), logrando hasta **~85% de ahorro mensual**.
 5. **RAG Privado Corporativo (FastAPI + Qdrant):** Respuestas con citas verificables (archivo y página) y extracción JSON tipada de facturas y contratos en arquitectura Zero-Retention.
+
+---
+
+## Repositorios Showcase en Vivo (10 Repositorios Públicos)
+
+- [`claude-code-hermes-24-7-automation`](https://github.com/agenciaiaonline-wq/claude-code-hermes-24-7-automation)
+- [`nextjs-supabase-saas-mvp-starter`](https://github.com/agenciaiaonline-wq/nextjs-supabase-saas-mvp-starter)
+- [`vibe-to-production-audit-kit`](https://github.com/agenciaiaonline-wq/vibe-to-production-audit-kit)
+- [`whatsapp-ai-sales-agent-n8n`](https://github.com/agenciaiaonline-wq/whatsapp-ai-sales-agent-n8n)
+- [`enterprise-rag-fastapi-starter`](https://github.com/agenciaiaonline-wq/enterprise-rag-fastapi-starter)
+- [`claude-code-agency-toolkit`](https://github.com/agenciaiaonline-wq/claude-code-agency-toolkit)
+- [`ai-lead-gen-crm-pipeline`](https://github.com/agenciaiaonline-wq/ai-lead-gen-crm-pipeline)
+- [`high-ticket-ai-automation-catalog`](https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog)
