@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/agency-golden-nodalix-880598438/"><img src="https://img.shields.io/badge/LinkedIn-Golden_Nodalix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/golden-nodalix/"><img src="https://img.shields.io/badge/LinkedIn-Golden_Nodalix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.fiverr.com/agencia_nodalix"><img src="https://img.shields.io/badge/Fiverr-agencia__nodalix-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
     <a href="mailto:agencia.ia.online@gmail.com"><img src="https://img.shields.io/badge/Email-agencia.ia.online%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
@@ -91,5 +91,5 @@ flowchart LR
 
 - **Live Portfolio & ROI Calculator:** [agenciaiaonline-wq.github.io](https://agenciaiaonline-wq.github.io)
 - **WhatsApp Direct (Fastest Reply <15 min):** [wa.me/51906135229](https://wa.me/51906135229?text=Hi%20Golden%20Nodalix%2C%20I%20saw%20your%20GitHub%20and%20want%20an%20audit) (`+51 906 135 229`)
-- **LinkedIn Profile:** [Golden Nodalix on LinkedIn](https://www.linkedin.com/in/agency-golden-nodalix-880598438/)
+- **LinkedIn Profile:** [Golden Nodalix on LinkedIn](https://www.linkedin.com/in/golden-nodalix/)
 - **Email & Fiverr:** [`agencia.ia.online@gmail.com`](mailto:agencia.ia.online@gmail.com) · [fiverr.com/agencia_nodalix](https://www.fiverr.com/agencia_nodalix)

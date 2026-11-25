@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/agency-golden-nodalix-880598438/"><img src="https://img.shields.io/badge/LinkedIn-Golden_Nodalix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/golden-nodalix/"><img src="https://img.shields.io/badge/LinkedIn-Golden_Nodalix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.fiverr.com/agencia_nodalix"><img src="https://img.shields.io/badge/Fiverr-agencia__nodalix-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
     <a href="mailto:agencia.ia.online@gmail.com"><img src="https://img.shields.io/badge/Email-agencia.ia.online%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
@@ -64,5 +64,5 @@ Ayudamos a **negocios, agencias B2B y fundadores** a convertir cuellos de botell
 
 - **Portafolio Web & Calculadora ROI:** [agenciaiaonline-wq.github.io](https://agenciaiaonline-wq.github.io)
 - **WhatsApp Directo (Respuesta <15 min):** [wa.me/51906135229](https://wa.me/51906135229?text=Hola%20Golden%20Nodalix%2C%20vi%20tu%20GitHub%20y%20quiero%20una%20auditoria) (`+51 906 135 229`)
-- **Perfil de LinkedIn:** [Golden Nodalix en LinkedIn](https://www.linkedin.com/in/agency-golden-nodalix-880598438/)
+- **Perfil de LinkedIn:** [Golden Nodalix en LinkedIn](https://www.linkedin.com/in/golden-nodalix/)
 - **Correo y Fiverr:** [`agencia.ia.online@gmail.com`](mailto:agencia.ia.online@gmail.com) · [fiverr.com/agencia_nodalix](https://www.fiverr.com/agencia_nodalix)
