@@ -49,6 +49,19 @@ Ayudamos a **negocios, agencias B2B y fundadores** a convertir cuellos de botell
 
 ---
 
+### Arquitectura de Nuestros Sistemas en Producción
+
+```mermaid
+flowchart LR
+    Inbound["Canales de Clientes\n(WhatsApp · Web · LinkedIn · CRM)"] --> Orchestrator["n8n Self-Hosted + Redis\n(Debounce · Dedupe · Colas)"]
+    Orchestrator --> Intelligence["Agentes IA & RAG Privado\n(Claude · GPT · Gemini vía OmniRoute)"]
+    Intelligence --> Data["Capa de Datos Blindada\n(PostgreSQL 16 · Supabase RLS · Qdrant)"]
+    Orchestrator --> Booking["Acciones de Ingreso\n(Stripe · Cal.com · Reportes BI)"]
+    Monitor["Watchdog 24/7 & Alertas\n(Health Checks · Logs SLA)"] -.-> Orchestrator
+```
+
+---
+
 ### Modelos de Trabajo y Garantía Cero Riesgo
 
 - **1. Diagnóstico Gratuito (15 min):** Evaluamos tu embudo, web o procesos y te entregamos un roadmap con presupuesto cerrado y ROI estimado.
